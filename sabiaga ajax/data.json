@@ -1,18 +1,27 @@
-{
-    "id": 1,
-    "name": "Hazel Joy",
-    "age": 30,
-    "email": "hazeljoysabiaga@gmail.com",
-    "phone": "095143790161",
-    "address": {
-        "street": "espiritu",
-        "city": "malabon",
-        "state": "NCR",
-        "zip": "1470"
+[
+    {
+        "id": 1,
+        "qoute": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "author": "Ralph Waldo Emerson"
     },
-    "company": {
-        "name":"Hazel Joy",
-        "position": "software Engineer",
-        "department": "development"
+    {
+        "id": 2,
+        "qoute": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill"
+    },
+    {
+        "id": 3,
+        "qoute": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein"
+    },
+    {
+        "id": 4,
+        "qoute": "Happiness is not something ready-made. It comes from your own actions.",
+        "author": "Dalai Lama"
+    },
+    {
+        "id": 5,
+        "qoute": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
     }
-}
+]
