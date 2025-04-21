@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "name": "Hazel Joy",
+    "age": 30,
+    "email": "hazeljoysabiaga@gmail.com",
+    "phone": "095143790161",
+    "address": {
+        "street": "espiritu",
+        "city": "malabon",
+        "state": "NCR",
+        "zip": "1470"
+    },
+    "company": {
+        "name":"Hazel Joy",
+        "position": "software Engineer",
+        "department": "development"
+    }
+}
